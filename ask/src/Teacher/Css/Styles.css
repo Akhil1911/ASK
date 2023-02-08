@@ -7,14 +7,14 @@
   transition-property: opacity;
   transition-duration: 1s;
   font-size: larger;
-  height: 430px;
+  /* height: 430px; */
   text-align: center;
   border-radius: 10px;
 }
 
 .non-acitve-class {
   opacity: 30%;
-  height: auto;
+  /* height: auto; */
   cursor: pointer;
   text-align: center;
   border-radius: 10px;
